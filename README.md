@@ -13,8 +13,7 @@ Este proyecto demuestra el uso de **Jupyter Notebook (Anaconda)** para realizar 
 - NumPy
 - Matplotlib
 - Sklearn
-- Scikit-learn
-- Nltk
+- Seaborn
 
 
 ##  Contenido
