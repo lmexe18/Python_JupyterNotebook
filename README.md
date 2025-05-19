@@ -26,12 +26,12 @@ Este proyecto demuestra el uso de **Jupyter Notebook (Anaconda)** para realizar 
 
 ## Dataset
 
-El dataset utilizado para el modelo de regresión loígstica es el clásico conjunto de datos del Titanic, que contiene información sobre los pasajeros del barco, como:
+El dataset utilizado para el modelo de regresión logística es el clásico conjunto de datos del Titanic, que contiene información sobre los pasajeros del barco, como:
 
 - Edad
 - Clase
 - Género
-- Predicción de supervivencia
+- Supervivencia
 
 🔗 **Fuente del dataset**:  
 [Titanic Dataset en Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download)
