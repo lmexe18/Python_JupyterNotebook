@@ -24,7 +24,7 @@ Este proyecto demuestra el uso de **Jupyter Notebook (Anaconda)** para realizar 
 - Modelado con regresión logística y visualización
 
 
-## Dataset
+## Dataset Regresión Logística - Titanic
 
 El dataset utilizado para el modelo de regresión logística es el clásico conjunto de datos del Titanic, que contiene información sobre los pasajeros del barco, como:
 
@@ -37,4 +37,14 @@ El dataset utilizado para el modelo de regresión logística es el clásico conj
 [Titanic Dataset en Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download)
 
 
+## Dataset SVM - Wine
+
+El dataset utilizado para la preparación de los datos con algoritmos de svm es el conjunto de datos de Wine, que contiene información sobre diferentes características de vinos, como:
+- Alcohol
+- Magnesio
+- Alcalinidad
+- Clase
+
+🔗 **Fuente del dataset**:  
+[Wine Dataset en UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/109/wine)
 
