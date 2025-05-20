@@ -46,5 +46,5 @@ El dataset utilizado para la preparación de los datos con algoritmos de svm es 
 - Clase
 
 🔗 **Fuente del dataset**:  
-[Wine Dataset en UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/109/wine)
+[Wine Dataset en Kaggle](https://www.kaggle.com/datasets/hrdkcodes/wine-data)
 
