@@ -14,6 +14,8 @@ Este proyecto demuestra el uso de **Jupyter Notebook (Anaconda)** para realizar 
 - Matplotlib
 - Sklearn
 - Seaborn
+- Torch
+- Torchmetrics
 
 
 ##  Contenido
@@ -22,6 +24,13 @@ Este proyecto demuestra el uso de **Jupyter Notebook (Anaconda)** para realizar 
 - Visualización de listas en gráfica
 - Modelado con regresión lineal y visualización
 - Modelado con regresión logística y visualización
+- Preparado de datos de datasets
+- Árbol de decisión
+- Random forest
+- KMeans
+- Naive Bayes
+- SVM
+- PyTorch
 
 
 ## Dataset Regresión Logística - Titanic
