@@ -16,6 +16,7 @@ Este proyecto demuestra el uso de **Jupyter Notebook (Anaconda)** para realizar 
 - Seaborn
 - Torch
 - Torchmetrics
+- Torchvision
 
 
 ##  Contenido
@@ -31,6 +32,7 @@ Este proyecto demuestra el uso de **Jupyter Notebook (Anaconda)** para realizar 
 - Naive Bayes
 - SVM
 - PyTorch
+- Procesamiento y clasificación de imágenes
 
 
 ## Dataset Regresión Logística - Titanic
